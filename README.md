@@ -1,2 +1,2 @@
 # tribute-page
-Reto tribute-page HTML, JavaScript y CSS 
+Reto tribute-page HTML y CSS 
